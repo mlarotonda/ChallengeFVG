@@ -8,7 +8,7 @@
     2) Descargar Chromedriver segun la version de tu navegador y pegarlo en la carpeta driver. <br>
        Link descarga: https://googlechromelabs.github.io/chrome-for-testing/
     3) Es requisito para ejecutar el proyecto tener instalado Java y Gradle.<br>
-       En caso de no tener Java -> https://www.java.com/es/download/manual.jsp <br>
+       En caso de no tener Java -> https://www.java.com/es/download/manual.jsp (version 8 o superior)<br>
        En caso de no tener Gradle -> https://gradle.org/install/
     4) Dentro de la carpeta del proyecto, ejecutar el comando: <br>
        &nbsp;&nbsp; \$ *./gradlew AllTest* --> Para ejecutar todos los test <br>
