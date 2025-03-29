@@ -11,6 +11,8 @@
        En caso de no tener Java -> https://www.java.com/es/download/manual.jsp <br>
        En caso de no tener Gradle -> https://gradle.org/install/
     4) Dentro de la carpeta del proyecto, ejecutar el comando: <br>
-       &nbsp; \$ ./gradlew AllTest --> Para ejecutar todos los test <br>
-       &nbsp; \$ ./gradlew FrontendTest --> Para ejecutar todos los test de Frontend <br>
-       &nbsp; \$ ./gradlew BackendTest --> Para ejecutar todos los test de Backend
+       &nbsp; \$ *./gradlew AllTest* --> Para ejecutar todos los test <br>
+       &nbsp; \$ *./gradlew FrontendTest* --> Para ejecutar todos los test de Frontend <br>
+       &nbsp; \$ *./gradlew BackendTest* --> Para ejecutar todos los test de Backend
+  5) Para ver el reporte de los casos ingresar a la ruta:
+     &nbsp; */build/reports/tests/{carpetaDeTest}/index.html*
