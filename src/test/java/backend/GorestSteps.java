@@ -10,11 +10,11 @@ import java.util.Properties;
 import static backend.client.RequestMethods.GET;
 import static backend.client.RequestMethods.POST;
 
-public class ClientSteps extends Client {
+public class GorestSteps extends Client {
     private String token;
     private String goRestUrl;
 
-    public ClientSteps() {
+    public GorestSteps() {
         loadProperties();
     }
 
